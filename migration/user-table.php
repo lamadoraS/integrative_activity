@@ -1,6 +1,6 @@
 <?php
 
-include 'database/db.php';
+include './database/db.php';
 
 class User extends Database
 {
